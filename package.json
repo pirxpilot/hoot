@@ -1,0 +1,24 @@
+{
+  "name": "hoot",
+  "description": "Inter-worker message-based communication in the node cluster.",
+  "version": "0.0.1",
+  "dependencies": {},
+  "scripts": {
+    "test": "make check"
+  },
+  "keywords": [
+    "cluster",
+    "message",
+    "send"
+  ],
+  "author": "Damian Krzeminski <pirxpilot@code42day.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jshint": "^2.5.6",
+    "mocha": "^2.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pirxpilot/hoot.git"
+  }
+}
