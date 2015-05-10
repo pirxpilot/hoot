@@ -1,6 +1,6 @@
 {
   "name": "hoot",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Inter-worker message-based communication in the node cluster.",
   "author": {
     "name": "Damian Krzeminski",
