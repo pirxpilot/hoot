@@ -1,1 +1,1 @@
-module.exports = require('./lib/hoot.js');
+module.exports = require('./lib/hoot');

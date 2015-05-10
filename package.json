@@ -1,24 +1,29 @@
 {
   "name": "hoot",
-  "description": "Inter-worker message-based communication in the node cluster.",
   "version": "0.1.0",
-  "dependencies": {},
-  "scripts": {
-    "test": "make check"
+  "description": "Inter-worker message-based communication in the node cluster.",
+  "author": {
+    "name": "Damian Krzeminski",
+    "email": "pirxpilot@code42day.com",
+    "url": "https://code42day.com"
   },
+  "repository": "code42day/hoot",
+  "license": "MIT",
   "keywords": [
+    "hoot",
     "cluster",
     "message",
     "send"
   ],
-  "author": "Damian Krzeminski <pirxpilot@code42day.com>",
-  "license": "MIT",
-  "devDependencies": {
-    "jshint": "^2.5.6",
-    "mocha": "^2.2.1"
+  "dependencies": {
+    "debug": "^2.2.0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:pirxpilot/hoot.git"
+  "devDependencies": {
+    "jshint": "^2.7.0",
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
+  },
+  "scripts": {
+    "test": "make check"
   }
 }

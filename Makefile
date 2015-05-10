@@ -1,9 +1,9 @@
-all: lint test
+check: lint test
 
 lint:
 	./node_modules/.bin/jshint *.js lib test
 
 test:
-	./node_modules/.bin/mocha --recursive
+	./node_modules/.bin/mocha --recursive --require should
 
-.PHONY: all lint test
+.PHONY: check lint test
