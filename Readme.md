@@ -49,13 +49,13 @@ Cluster master needs to call `registerWorker` for all workers that participate i
 
 ## License
 
-MIT © [code42day](https://code42day.com)
+MIT © [Damian Krzeminski](https://pirxpilot.me)
 
 [npm-image]: https://img.shields.io/npm/v/hoot.svg
 [npm-url]: https://npmjs.org/package/hoot
 
-[travis-url]: https://travis-ci.org/code42day/hoot
-[travis-image]: https://img.shields.io/travis/code42day/hoot.svg
+[travis-url]: https://travis-ci.org/pirxpilot/hoot
+[travis-image]: https://img.shields.io/travis/pirxpilot/hoot.svg
 
-[gemnasium-image]: https://img.shields.io/gemnasium/code42day/hoot.svg
-[gemnasium-url]: https://gemnasium.com/code42day/hoot
+[gemnasium-image]: https://img.shields.io/gemnasium/pirxpilot/hoot.svg
+[gemnasium-url]: https://gemnasium.com/pirxpilot/hoot

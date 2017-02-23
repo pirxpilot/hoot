@@ -4,10 +4,10 @@
   "description": "Inter-worker message-based communication in the node cluster.",
   "author": {
     "name": "Damian Krzeminski",
-    "email": "pirxpilot@code42day.com",
-    "url": "https://code42day.com"
+    "email": "pirxpilot@furkot.com",
+    "url": "https://pirxpilot.me"
   },
-  "repository": "code42day/hoot",
+  "repository": "pirxpilot/hoot",
   "license": "MIT",
   "keywords": [
     "hoot",
